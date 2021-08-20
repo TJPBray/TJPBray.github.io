@@ -7,7 +7,7 @@ description: "Some short description of your blog can go here." # This will show
 email: "t.bray@ucl.ac.uk"
 twitter_username: "@tjp_bray"
 github_username: "TJPBray"
-ucl_iris: https://iris.ucl.ac.uk/iris/browse/profile?upi=TBRAY81
+#ucl_iris: https://iris.ucl.ac.uk/iris/browse/profile?upi=TBRAY81
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
@@ -19,9 +19,9 @@ ucl_iris: https://iris.ucl.ac.uk/iris/browse/profile?upi=TBRAY81
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "modernist"
 
-rss: rss
+rss: https://iris.ucl.ac.uk/iris/browse/profile?upi=TBRAY81
 
 kramdown:
   syntax_highlighter_opts:
