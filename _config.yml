@@ -21,7 +21,7 @@ github_username: "TJPBray"
 #########################################################################################
 theme: "minima"
 
-rss: https://iris.ucl.ac.uk/iris/browse/profile?upi=TBRAY81
+rss: rss
 
 kramdown:
   syntax_highlighter_opts:
