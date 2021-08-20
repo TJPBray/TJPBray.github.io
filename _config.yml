@@ -19,7 +19,7 @@ github_username: "TJPBray"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "modernist"
+theme: "minima"
 
 rss: https://iris.ucl.ac.uk/iris/browse/profile?upi=TBRAY81
 
