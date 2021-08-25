@@ -4,9 +4,9 @@ I am an NIHR Clinical Lecturer in Radiology, based between the Centre for Medica
 
 <h1> Research Experience </h1>
 
-Sept 2018-2019, Honorary Research Fellow, University College London
-
 Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College London
+
+Sept 2018-2019, Honorary Research Fellow, University College London
 <hr>
 
 <h1> Education </h1>
