@@ -4,12 +4,11 @@
 I am an NIHR Clinical Lecturer in Radiology, based between the Centre for Medical Imaging at University College and the Imaging department at University College London Hospital. My core expertise is in the technical development and clinical translation of new methods for magnetic resonance imaging (MRI), particularly quantitative MRI (qMRI). I am particularly interested in the use of qMRI to characterise inflammation, a fundamental biological process which has - thus far - been understudied with imaging. By working at the interface of radiology, engineering and rheumatology, I aim to improve our capability to understand, diagnose and treat inflammatory diseases across organ systems. 
 
 <h1> Research Experience </h1>
-<hr>
 
 Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College London
+<hr>
 
 <h1> Education </h1>
-<hr>
 
 2020: Fellow of the Royal College of Radiologists, UK
 
@@ -18,9 +17,10 @@ Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College Londo
 2011: MBBChir (Cantab): Cambridge University
 
 2008: MA (Cantab) in Natural Sciences: Cambridge University
+<hr>
 
 <h1> Publications </h1>
-<hr>
+
 <h2>Preprints (undergoing review)</h2>
 
 1.	Bray TJP, Lim EA, Jawad S, Kaur S, Otero S, Beale TJ, McGurk M, Bainbridge A, Hall-Craggs MA, Morley S. Negative contrast neurography of the extracranial nerve and its branches based on variable flip angle turbo spin echo imaging. arXiv 2021:
@@ -30,9 +30,10 @@ Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College Londo
 3.	Hepburn C, Zhang H, Iglesias JE, Jones A, Bainbridge A, Bray TJP, Hall-Craggs MA. Towards deep-learning assisted quantification of inflammation in spondyloarthritis: intensity-based lesion segmentation. arXiv 2021:2106.11343 
 
 <h2>Peer-reviewed Original Research </h2>
+
 4.	Bray TJP, Bainbridge A, Sakai N, Hall-Craggs MA, Zhang H. An Information-based Comparison of Diffusion Attenuation Models in Normal and Inflamed Bone Marrow. NMR in Biomedicine 2020; doi: 10.1002/nbm.390
-5.	
-6.	Bray TJP, Sakai N, Dudek A, Fisher C, Rajesparan K, Lopes A, Ciurtin C, Sen D, Bainbridge A, Hall-Craggs MA. Histographic Analysis of Oedema and Fat in Inflamed Bone Marrow based on Quantitative MRI. European Radiology 2020; 30:5099-5109
+
+5.	Bray TJP, Sakai N, Dudek A, Fisher C, Rajesparan K, Lopes A, Ciurtin C, Sen D, Bainbridge A, Hall-Craggs MA. Histographic Analysis of Oedema and Fat in Inflamed Bone Marrow based on Quantitative MRI. European Radiology 2020; 30:5099-5109
 
 6.	Singh S, Pilavechi E, Dudek A, Bray TJP, Latifoltojar A, Rajesparan K, Punwani S, Hall-Craggs MA. Whole body MRI in multiple myeloma: Optimising image acquisition and read times. PLOS ONE 2020; doi 10.1371
 
@@ -77,4 +78,4 @@ Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College Londo
 25.	Bray TJP, Vendhan K, Fisher C, Sen D, Ioannou Y, Hall-Craggs MA. Low back pain in adolescent inflammatory arthritis can be due to lumbar spine apophyseal joint inflammation, and this requires contrast enhancement for adequate assessment. Comment on the article by Weiss et al. Arthritis & Rheumatology 2016 Jan;68(1):263
 
 26.	Bray TJP, Mortensen KH, Gopalan D. Multimodality imaging of pulmonary infarction. Eur J Radiology 2014 Dec; 83(12):2240-54
-
+<hr>
