@@ -1,21 +1,28 @@
 <h1> Overview </h1>
 <hr>
+
 I am an NIHR Clinical Lecturer in Radiology, based between the Centre for Medical Imaging at University College and the Imaging department at University College London Hospital. My core expertise is in the technical development and clinical translation of new methods for magnetic resonance imaging (MRI), particularly quantitative MRI (qMRI). I am particularly interested in the use of qMRI to characterise inflammation, a fundamental biological process which has - thus far - been understudied with imaging. By working at the interface of radiology, engineering and rheumatology, I aim to improve our capability to understand, diagnose and treat inflammatory diseases across organ systems. 
 
 <h1> Research Experience </h1>
 <hr>
+
 Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College London
 
 <h1> Education </h1>
 <hr>
+
 2020: Fellow of the Royal College of Radiologists, UK
+
 2015-2018: PhD in Magnetic Resonance Imaging, University College London
+
 2011: MBBChir (Cantab): Cambridge University
+
 2008: MA (Cantab) in Natural Sciences: Cambridge University
 
 <h1> Publications </h1>
 <hr>
 <h2>Preprints (undergoing review)</h2>
+
 1.	Bray TJP, Lim EA, Jawad S, Kaur S, Otero S, Beale TJ, McGurk M, Bainbridge A, Hall-Craggs MA, Morley S. Negative contrast neurography of the extracranial nerve and its branches based on variable flip angle turbo spin echo imaging. arXiv 2021:
 
 2.	Epstein SC, Bray TJP, Hall-Craggs MA, Zhang H. Task-driven assessment of experimental design in diffusion MRI: a computational framework. arXiv 2021:2103.08438
@@ -54,6 +61,7 @@ Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College Londo
 18.	Bray TJP, Carpenter RH. Saccadic foraging: reduced reaction time to informative targets. European Journal of Neuroscience 2015;41(7):906-11
 
 <h2>Reviews and correspondaence </h2>
+
 19.	Barendregt AM, Bray TJP, Hall-Craggs MA, Maas M. Emerging quantitative magnetic resonance imaging biomarkers in inflammatory arthritides. European Journal of Radiology 2019 Dec; 121(108707)
 
 20.	Hall-Craggs MA, Bray TJP, Bainbridge A. Quantitative imaging of inflammatory disease; are we missing a trick? Ann Rheum Dis 2018 doi:10.1136/annrheumdis-2018-213614.
