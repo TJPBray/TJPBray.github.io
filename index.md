@@ -22,11 +22,11 @@ Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College Londo
 
 <h2>Preprints (undergoing review)</h2>
 
-1.	Bray TJP, Lim EA, Jawad S, Kaur S, Otero S, Beale TJ, McGurk M, Bainbridge A, Hall-Craggs MA, Morley S. Negative contrast neurography of the extracranial nerve and its branches based on variable flip angle turbo spin echo imaging. arXiv 2021:
+1.  Epstein SC, Bray TJP, Hall-Craggs MA, Zhang H. Task-driven assessment of experimental design in diffusion MRI: a computational framework. arXiv 2021:2103.08438
 
-2.	Epstein SC, Bray TJP, Hall-Craggs MA, Zhang H. Task-driven assessment of experimental design in diffusion MRI: a computational framework. arXiv 2021:2103.08438
+2.	Hepburn C, Zhang H, Iglesias JE, Jones A, Bainbridge A, Bray TJP, Hall-Craggs MA. Towards deep-learning assisted quantification of inflammation in spondyloarthritis: intensity-based lesion segmentation. arXiv 2021:2106.11343 
 
-3.	Hepburn C, Zhang H, Iglesias JE, Jones A, Bainbridge A, Bray TJP, Hall-Craggs MA. Towards deep-learning assisted quantification of inflammation in spondyloarthritis: intensity-based lesion segmentation. arXiv 2021:2106.11343 
+3.	Bray TJP, Lim EA, Jawad S, Kaur S, Otero S, Beale TJ, McGurk M, Bainbridge A, Hall-Craggs MA, Morley S. Negative contrast neurography of the extracranial nerve and its branches based on variable flip angle turbo spin echo imaging. arXiv 2021:2103:13200
 
 <h2>Peer-reviewed Original Research </h2>
 
