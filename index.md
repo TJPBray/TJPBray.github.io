@@ -20,12 +20,12 @@ Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College Londo
 
 2.	Epstein SC, Bray TJP, Hall-Craggs MA, Zhang H. Task-driven assessment of experimental design in diffusion MRI: a computational framework. arXiv 2021:2103.08438
 
-3.	Hepburn C, Zhang H, Iglesias JE, Jones A, Bainbridge A, Bray TJP, Hall-Craggs MA. Towards deep-learning assisted quantification of inflammation in spondyloarthritis: intensity-based lesion segmentation. arXiv 2021:2106.11343
+3.	Hepburn C, Zhang H, Iglesias JE, Jones A, Bainbridge A, Bray TJP, Hall-Craggs MA. Towards deep-learning assisted quantification of inflammation in spondyloarthritis: intensity-based lesion segmentation. arXiv 2021:2106.11343 
 
 <h2>Peer-reviewed Original Research </h2>
 4.	Bray TJP, Bainbridge A, Sakai N, Hall-Craggs MA, Zhang H. An Information-based Comparison of Diffusion Attenuation Models in Normal and Inflamed Bone Marrow. NMR in Biomedicine 2020; doi: 10.1002/nbm.390
-
-5.	Bray TJP, Sakai N, Dudek A, Fisher C, Rajesparan K, Lopes A, Ciurtin C, Sen D, Bainbridge A, Hall-Craggs MA. Histographic Analysis of Oedema and Fat in Inflamed Bone Marrow based on Quantitative MRI. European Radiology 2020; 30:5099-5109
+5.	
+6.	Bray TJP, Sakai N, Dudek A, Fisher C, Rajesparan K, Lopes A, Ciurtin C, Sen D, Bainbridge A, Hall-Craggs MA. Histographic Analysis of Oedema and Fat in Inflamed Bone Marrow based on Quantitative MRI. European Radiology 2020; 30:5099-5109
 
 6.	Singh S, Pilavechi E, Dudek A, Bray TJP, Latifoltojar A, Rajesparan K, Punwani S, Hall-Craggs MA. Whole body MRI in multiple myeloma: Optimising image acquisition and read times. PLOS ONE 2020; doi 10.1371
 
