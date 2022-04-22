@@ -5,6 +5,15 @@
 I am an NIHR Clinical Lecturer in Radiology, based between the Centre for Medical Imaging at University College and the Imaging department at University College London Hospital. My core expertise is in the technical development and clinical translation of new methods for magnetic resonance imaging (MRI), particularly quantitative MRI (qMRI). I am particularly interested in the use of qMRI to characterise inflammation, a fundamental biological process which has - thus far - been understudied with imaging. By working at the interface of radiology, engineering and rheumatology, I aim to improve our capability to understand, diagnose and treat inflammatory diseases across organ systems. 
 
 <hr>
+<h1> AI-enabled quantitative MRI of inflammation </h1>
+
+![My photo](/Images/CirclePhoto.png){: style="width:250px;"}
+
+<hr>
+
+
+
+<hr>
 <h1> Research Experience </h1>
 
 Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College London
@@ -65,7 +74,7 @@ Sept 2018-2019, Honorary Research Fellow, University College London
 
 18.	Bray TJP, Carpenter RH. Saccadic foraging: reduced reaction time to informative targets. European Journal of Neuroscience 2015;41(7):906-11
 
-<h2>Reviews and correspondaence </h2>
+<h2>Reviews and correspondence </h2>
 
 19.	Barendregt AM, Bray TJP, Hall-Craggs MA, Maas M. Emerging quantitative magnetic resonance imaging biomarkers in inflammatory arthritides. European Journal of Radiology 2019 Dec; 121(108707)
 
