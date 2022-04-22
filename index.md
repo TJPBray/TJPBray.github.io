@@ -13,26 +13,6 @@ One of the central problems in the assessment of inflammatory diseases is the cu
 <hr>
 
 
-
-<hr>
-<h1> Research Experience </h1>
-
-Sept 2019-Present: NIHR Clinical Lecturer in Radiology, University College London
-
-Sept 2018-2019, Honorary Research Fellow, University College London
-<hr>
-
-<h1> Education </h1>
-
-2020: Fellow of the Royal College of Radiologists, UK
-
-2015-2018: PhD in Magnetic Resonance Imaging, University College London
-
-2011: MBBChir (Cantab): Cambridge University
-
-2008: MA (Cantab) in Natural Sciences: Cambridge University
-<hr>
-
 <h1> Publications </h1>
 
 <h2>Preprints</h2>
@@ -92,4 +72,26 @@ Sept 2018-2019, Honorary Research Fellow, University College London
 25.	Bray TJP, Vendhan K, Fisher C, Sen D, Ioannou Y, Hall-Craggs MA. Low back pain in adolescent inflammatory arthritis can be due to lumbar spine apophyseal joint inflammation, and this requires contrast enhancement for adequate assessment. Comment on the article by Weiss et al. Arthritis & Rheumatology 2016 Jan;68(1):263
 
 26.	Bray TJP, Mortensen KH, Gopalan D. Multimodality imaging of pulmonary infarction. Eur J Radiology 2014 Dec; 83(12):2240-54
+<hr>
+
+<hr>
+<h1> Research Experience </h1>
+
+2019-Present: NIHR Clinical Lecturer in Radiology, Centre for Medical Imaging, University College London
+
+2018-2019, Honorary Research Fellow, Centre for Medical Imaging, University College London
+
+2015-2018, Clinical Research Fellow, Centre for Medical Imaging, University College London
+
+<hr>
+
+<h1> Education </h1>
+
+2020: Fellow of the Royal College of Radiologists, UK
+
+2015-2018: PhD in Magnetic Resonance Imaging, University College London
+
+2011: MBBChir (Cantab): St Catharine's College, Cambridge University
+
+2008: MA (Cantab) in Natural Sciences: St Catharine's College, Cambridge University
 <hr>
