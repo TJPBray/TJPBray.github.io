@@ -7,7 +7,7 @@ I am an NIHR Clinical Lecturer in Radiology, based between the Centre for Medica
 <hr>
 <h1> AI-enabled quantitative MRI of inflammation </h1>
 
-![My photo](/Images/CirclePhoto.png){: style="width:250px;"}
+![My photo](/Images/newWorld.png){: style="width:250px;"}
 
 <hr>
 
