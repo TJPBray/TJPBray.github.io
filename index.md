@@ -5,7 +5,8 @@
 I am an NIHR Clinical Lecturer in Radiology, based between the Centre for Medical Imaging at University College and the Imaging department at University College London Hospital. My core expertise is in the technical development and clinical translation of new methods for magnetic resonance imaging (MRI), particularly quantitative MRI (qMRI). I am particularly interested in the use of qMRI to characterise inflammation, a fundamental biological process which has - thus far - been understudied with imaging. By working at the interface of radiology, engineering and rheumatology, I aim to improve our capability to understand, diagnose and treat inflammatory diseases across organ systems. 
 
 <hr>
-<h1> AI-enabled quantitative MRI of inflammation </h1>
+<h1> AI-enabled quantitative MRI of inflammation: the Q3ID Toolbox </h1>
+One of the central problems in the assessment of inflammatory diseases is the current subjectivity and imprecision in assessments of inflammation and damage with imaging. This limits our ability to identify, characterise and monitor inflammation and damage and to tailor treatment accordingly in clinical practice. To address this, I am developing a Toolbox enabling Quantitative, Intelligent Imaging of Inflammation and Damage in the skeleton: the Q3ID Toolbox. The complete Toolbox will comprise a set of user-friendly tools, underpinned by advanced methods for acquisition and analysis of MRI scans (compatible with any modern scanner), providing quantitative, numerical measures of inflammation and damage. These measures will enable doctors to give the right treatment at the right time, supporting a precise, objective approach to treatment decision-making.
 
 ![My photo](/Images/newWorld.png)
 
