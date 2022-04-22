@@ -22,7 +22,7 @@ Sept 2018-2019, Honorary Research Fellow, University College London
 
 <h1> Publications </h1>
 
-<h2>Preprints (undergoing review)</h2>
+<h2>Preprints</h2>
 
 1.  Epstein SC, Bray TJP, Hall-Craggs MA, Zhang H. Task-driven assessment of experimental design in diffusion MRI: a computational framework. arXiv 2021:2103.08438
 
