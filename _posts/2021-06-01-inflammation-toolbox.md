@@ -1,4 +1,4 @@
-## Inflammation toolbox
+## An AI-powered toolbox for imaging inflammation - a proposal
 
 <hr>
 <h1> AI-enabled quantitative MRI of inflammation: the Q3ID Toolbox </h1>
