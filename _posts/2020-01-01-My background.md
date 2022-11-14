@@ -1,5 +1,7 @@
 ## My background
 
+![My photo](/Images/CirclePhoto.png){: style="width:180px; float: right;"}
+
 <h1> Publications </h1>
 
 <h2>Preprints</h2>
